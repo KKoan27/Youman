@@ -1,0 +1,15 @@
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.AssemblyInfoInputs.cache
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.AssemblyInfo.cs
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.csproj.CoreCompileInputs.cache
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.sourcelink.json
+C:\Users\luanv\Documents\PROJETOS\Youman\bin\Debug\net8.0\Youman.exe
+C:\Users\luanv\Documents\PROJETOS\Youman\bin\Debug\net8.0\Youman.deps.json
+C:\Users\luanv\Documents\PROJETOS\Youman\bin\Debug\net8.0\Youman.runtimeconfig.json
+C:\Users\luanv\Documents\PROJETOS\Youman\bin\Debug\net8.0\Youman.dll
+C:\Users\luanv\Documents\PROJETOS\Youman\bin\Debug\net8.0\Youman.pdb
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.dll
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\refint\Youman.dll
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.pdb
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\Youman.genruntimeconfig.cache
+C:\Users\luanv\Documents\PROJETOS\Youman\obj\Debug\net8.0\ref\Youman.dll
