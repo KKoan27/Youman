@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Youman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b598281f9e33f9d813030868e81edeb23ec0a81d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2a33431bffe425b29b3b57e0179141f4e3c36b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Youman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Youman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
